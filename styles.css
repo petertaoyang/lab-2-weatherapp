@@ -1,0 +1,10 @@
+body {
+  background-color: #fefbd8;
+  margin: 5%
+}
+
+form {
+  text-align: left;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
